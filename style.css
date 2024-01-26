@@ -35,3 +35,19 @@ input {
     border-radius: 5px;
     max-width: 300px;
 }
+p {
+    font-weight: 100px;
+}
+button {
+    background-color: #0089ff;
+    color: #fff;
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    max-width: 300px;
+}
+
+button:hover {
+    background-color: #006fce;
+}
